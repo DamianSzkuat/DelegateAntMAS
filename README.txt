@@ -1,0 +1,1 @@
+The application can be run with the command 'java -jar mas.jar' from inside the /target folder.
